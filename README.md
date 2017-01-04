@@ -11,7 +11,7 @@
 - contenu
 - cible d'age
 - couleurs
-- contexte - cours a domicile ou das un local
+- contexte - cours a domicile ou das un locale
 - photos
 - site ludique ou serieux
 - nom du site
