@@ -3343,7 +3343,7 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../images/banner.jpg");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
@@ -3544,23 +3544,28 @@
 			min-width: 100%;
 			min-height: 100%;
 			overflow: hidden;
+			opacity: 0.65;
 		}
 
 		#banner:before {
-			-moz-transition: opacity 3s ease;
-			-webkit-transition: opacity 3s ease;
-			-ms-transition: opacity 3s ease;
-			transition: opacity 3s ease;
-			-moz-transition-delay: 1.25s;
-			-webkit-transition-delay: 1.25s;
-			-ms-transition-delay: 1.25s;
-			transition-delay: 1.25s;
+			-moz-transition: opacity 1.5s ease;
+			-webkit-transition: opacity 1.5s ease;
+			-ms-transition: opacity 1.5s ease;
+			transition: opacity 1.5s ease;
+			-moz-transition-delay: 0.75s;
+			-webkit-transition-delay: 0.75s;
+			-ms-transition-delay: 0.75s;
+			transition-delay: 0.75s;
 			content: '';
 			display: block;
-			background-color: #333333;
+			background-image: url("../../../../images/iStock_000019989349Small-593x394-2.jpg");
+			background-size: cover;
+			background-position: center;
+			/*background-attachment: fixed;*/
+			/*background-color: #333333;*/
 			height: 100%;
 			left: 0;
-			opacity: 0.45;
+			opacity: 0.25;
 			position: absolute;
 			top: 0;
 			width: 100%;

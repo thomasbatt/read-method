@@ -1292,7 +1292,8 @@
 		-ms-flex-direction: column;
 		flex-direction: column;
 		padding: 8em 0 6em 0;
-		background-image: url("../../images/banner.jpg");
+		/*background-image: url("../images/banner.jpg");*/
+		background-image: url("../../../images/TobiiPro_child_research_reading_3_1.jpg");
 		background-size: cover;
 		background-position: center;
 		background-attachment: fixed;

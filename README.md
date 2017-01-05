@@ -1,22 +1,29 @@
-#Template site vitrine read-methode
+#Site vitrine des Gites Acker
 
-*Projet de site vitrine sur une methode de lecture pour les enfants*
+*Projet realisé en HTML5, CSS3, JavaScript, PHP, Sql*
 
-<!-- ###[www.gite-acker.webatt.fr](http://gite-acker.webatt.fr) -->
+###[www.gite-acker.webatt.fr](http://gite-acker.webatt.fr)
 
 
-### Informations manquantes 
+### Dependences 
 
-- arborescence
-- contenu
-- cible d'age
-- couleurs
-- contexte - cours a domicile ou das un locale
-- photos
-- site ludique ou serieux
-- nom du site
-- 
+- [animate.css](https://github.com/daneden/animate.css) - [bootstrap-sass](https://github.com/twbs/bootstrap-sass) - [font-awesome](https://github.com/FortAwesome/Font-Awesome) - [wowjs](https://github.com/matthieua/WOW) - [jquery](https://github.com/jquery/jquery)
 
-### objectif
 
-- presenter 2-3 templates et lui en faire choisir 1. 
+### Contribuer
+
+Pour installer faites simplement les commandes suivantes:
+
+
+```bash
+  	$ npm install
+  	$ bower install
+```
+
+et lancez
+
+```bash
+	$ gulp 
+```
+
+La tache par defaut installe les fichiers de styles, fonts et scripts puis surveille les sources pour injecter les modifications apportées. 
